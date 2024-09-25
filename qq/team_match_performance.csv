@@ -1,0 +1,75 @@
+match_id,team1,team2,toss_winner,toss_decision,innings1_score,innings2_score,winning_team,won_by,margin,player_of_the_match,team1_result,team2_result
+202401,RCB,CSK,RCB,bat,173,176,CSK,wickets,6,Mustafizur Rahman,Loss,Win
+202402,DC,PBKS,PBKS,field,174,177,PBKS,wickets,4,SM Curran,Loss,Win
+202403,KKR,SRH,SRH,field,208,204,KKR,runs,4,AD Russell,Win,Loss
+202404,RR,LSG,RR,bat,193,173,RR,runs,20,SV Samson,Win,Loss
+202405,GT,MI,MI,field,168,162,GT,runs,6,B Sai Sudharsan,Win,Loss
+202406,PBKS,RCB,RCB,field,176,178,RCB,wickets,4,V Kohli,Loss,Win
+202407,CSK,GT,GT,field,206,143,CSK,runs,63,S Dube,Win,Loss
+202408,SRH,MI,MI,field,277,246,SRH,runs,31,Abhishek Sharma,Win,Loss
+202409,RR,DC,DC,field,185,173,RR,runs,12,R Parag,Win,Loss
+202410,RCB,KKR,KKR,field,182,186,KKR,wickets,7,SP Narine,Loss,Win
+202411,LSG,PBKS,LSG,bat,199,178,LSG,runs,21,MP Yadav,Win,Loss
+202412,SRH,GT,SRH,bat,162,168,GT,wickets,7,MM Sharma,Loss,Win
+202413,DC,CSK,DC,bat,191,171,DC,runs,20,KK Ahmed,Win,Loss
+202414,MI,RR,RR,field,125,127,RR,wickets,6,TA Boult,Loss,Win
+202415,LSG,RCB,RCB,field,181,153,LSG,runs,28,MP Yadav,Win,Loss
+202416,KKR,DC,KKR,bat,272,166,KKR,runs,106,SP Narine,Win,Loss
+202417,GT,PBKS,PBKS,field,199,200,PBKS,wickets,3,Shashank Singh,Loss,Win
+202418,CSK,SRH,SRH,field,165,166,SRH,wickets,6,Abhishek Sharma,Loss,Win
+202419,RCB,RR,RR,field,183,189,RR,wickets,6,JC Buttler,Loss,Win
+202420,MI,DC,DC,field,234,205,MI,runs,29,R Shepherd,Win,Loss
+202421,LSG,GT,LSG,bat,163,130,LSG,runs,33,Yash Thakur,Win,Loss
+202422,KKR,CSK,CSK,field,137,141,CSK,wickets,7,RA Jadeja,Loss,Win
+202423,SRH,PBKS,PBKS,field,182,180,SRH,runs,2,Nithish Kumar Reddy,Win,Loss
+202424,RR,GT,GT,field,196,199,GT,wickets,3,Rashid Khan,Loss,Win
+202425,RCB,MI,MI,field,196,199,MI,wickets,7,JJ Bumrah,Loss,Win
+202426,LSG,DC,LSG,bat,167,170,DC,wickets,6,Kuldeep Yadav,Loss,Win
+202427,PBKS,RR,RR,field,147,152,RR,wickets,3,SO Hetmyer,Loss,Win
+202428,LSG,KKR,KKR,field,161,162,KKR,wickets,8,PD Salt,Loss,Win
+202429,CSK,MI,MI,field,206,186,CSK,runs,20,M Pathirana,Win,Loss
+202430,SRH,RCB,RCB,field,287,262,SRH,runs,25,TM Head,Win,Loss
+202431,KKR,RR,RR,field,223,224,RR,wickets,2,JC Buttler,Loss,Win
+202432,GT,DC,DC,field,89,92,DC,wickets,6,RR Pant,Loss,Win
+202433,MI,PBKS,PBKS,field,192,183,MI,runs,9,JJ Bumrah,Win,Loss
+202434,CSK,LSG,LSG,field,176,180,LSG,wickets,8,KL Rahul,Loss,Win
+202435,SRH,DC,DC,field,266,199,SRH,runs,67,TM Head,Win,Loss
+202436,KKR,RCB,RCB,field,222,221,KKR,runs,1,AD Russell,Win,Loss
+202437,PBKS,GT,PBKS,bat,142,146,GT,wickets,3,R Sai Kishore,Loss,Win
+202438,MI,RR,MI,bat,179,183,RR,wickets,9,Sandeep Sharma,Loss,Win
+202439,CSK,LSG,LSG,field,210,213,LSG,wickets,6,MP Stoinis,Loss,Win
+202440,DC,GT,GT,field,224,220,DC,runs,4,RR Pant,Win,Loss
+202441,RCB,SRH,RCB,bat,206,171,RCB,runs,35,RM Patidar,Win,Loss
+202442,KKR,PBKS,PBKS,field,261,262,PBKS,wickets,8,JM Bairstow,Loss,Win
+202443,DC,MI,MI,field,257,247,DC,runs,10,J Fraser-McGurk,Win,Loss
+202444,LSG,RR,RR,field,196,199,RR,wickets,7,SV Samson,Loss,Win
+202445,GT,RCB,RCB,field,200,206,RCB,wickets,9,WG Jacks,Loss,Win
+202446,CSK,SRH,SRH,field,212,134,CSK,runs,78,RD Gaikwad,Win,Loss
+202447,DC,KKR,DC,bat,153,157,KKR,wickets,7,CV Varun,Loss,Win
+202448,MI,LSG,LSG,field,144,145,LSG,wickets,4,MP Stoinis,Loss,Win
+202449,CSK,PBKS,PBKS,field,162,163,PBKS,wickets,7,Harpreet Brar,Loss,Win
+202450,SRH,RR,SRH,bat,201,200,SRH,runs,1,B Kumar,Win,Loss
+202451,KKR,MI,MI,field,169,145,KKR,runs,24,VR Iyer,Win,Loss
+202452,GT,RCB,RCB,field,147,152,RCB,wickets,4,Mohammed Siraj,Loss,Win
+202453,CSK,PBKS,PBKS,field,167,139,CSK,runs,28,RA Jadeja,Win,Loss
+202454,KKR,LSG,LSG,field,235,137,KKR,runs,98,SP Narine,Win,Loss
+202455,SRH,MI,MI,field,173,174,MI,wickets,7,SA Yadav,Loss,Win
+202456,DC,RR,RR,field,221,201,DC,runs,20,Kuldeep Yadav,Win,Loss
+202457,LSG,SRH,LSG,bat,165,167,SRH,wickets,10,TM Head,Loss,Win
+202458,RCB,PBKS,PBKS,field,241,181,RCB,runs,60,V Kohli,Win,Loss
+202459,GT,CSK,CSK,field,231,196,GT,runs,35,Shubman Gill,Win,Loss
+202460,KKR,MI,MI,field,157,139,KKR,runs,18,CV Varun,Win,Loss
+202461,RR,CSK,RR,bat,141,145,CSK,wickets,5,Simarjeet Singh,Loss,Win
+202462,RCB,DC,DC,field,187,140,RCB,runs,47,C Green,Win,Loss
+202463,GT,KKR,No Toss,No Toss,,,,,,,Loss,Loss
+202464,DC,LSG,LSG,field,208,189,DC,runs,19,I Sharma,Win,Loss
+202465,RR,PBKS,RR,bat,144,145,PBKS,wickets,5,SM Curran,Loss,Win
+202466,SRH,GT,No Toss,No Toss,,,,,,,Loss,Loss
+202467,LSG,MI,MI,field,214,196,LSG,runs,18,N Pooran,Win,Loss
+202468,RCB,CSK,CSK,field,218,191,RCB,runs,27,F du Plessis,Win,Loss
+202469,PBKS,SRH,PBKS,bat,214,215,SRH,wickets,4,Abhishek Sharma,Loss,Win
+202470,RR,KKR,KK,field,,,,,,,Loss,Loss
+202471,SRH,KKR,SRH,bat,159,164,KKR,wickets,8,MA Starc,Loss,Win
+202472,RCB,RR,RR,field,172,174,RR,wickets,4,R Ashwin,Loss,Win
+202473,SRH,RR,RR,field,175,139,SRH,runs,36,Shahbaz Ahmed,Win,Loss
+202474,SRH,KKR,SRH,bat,113,114,KKR,wickets,8,MA Starc,Loss,Win
